@@ -3,3 +3,5 @@
 
 	print("<h2>2.0</h2>");
 ?>
+
+<marquee>GG</marquee>
