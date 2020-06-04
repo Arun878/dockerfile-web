@@ -1,3 +1,5 @@
+<html>
+<body bgcolor="green">
 <?php
 	print("<h1>PHP_Latest</h1>");
 
@@ -7,3 +9,5 @@
 
 <marquee>GG</marquee>
 <marquee>...</marquee>
+</body>
+</html>
