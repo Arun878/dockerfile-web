@@ -5,3 +5,4 @@
 ?>
 
 <marquee>GG</marquee>
+<marquee>...</marquee>
