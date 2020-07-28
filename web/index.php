@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="grey">
+<body bgcolor="lightblue">
 <?php
 	print("<h1>PHP_Latest</h1>");
 
