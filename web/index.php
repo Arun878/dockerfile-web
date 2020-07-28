@@ -8,6 +8,6 @@
 ?>
 
 <marquee>GG</marquee>
-<marquee>...</marquee>
+<marquee>WP</marquee>
 </body>
 </html>
