@@ -3,8 +3,8 @@
 <?php
 	print("<h1>PHP_Latest</h1>");
 
-	print("<h1>Pass</h1>");
-	print("<h2>3.0</h2>");
+	print("<h1>Testing Page</h1>");
+	print("<h2>4.0</h2>");
 ?>
 
 <marquee>GG</marquee>
