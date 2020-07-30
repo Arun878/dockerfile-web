@@ -4,7 +4,7 @@
 	print("<h1>PHP_Latest</h1>");
 
 	print("<h1>Pass</h1>");
-	print("<h2>2.0</h2>");
+	print("<h2>3.0</h2>");
 ?>
 
 <marquee>GG</marquee>
